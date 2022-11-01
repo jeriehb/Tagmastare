@@ -62,7 +62,6 @@ function TopNavBar() {
                     </svg> {' '}
                     Log In
                   </Nav.Link>
-
                 </Nav.Item>
 
               </Nav>
